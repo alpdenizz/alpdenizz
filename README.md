@@ -3,8 +3,7 @@
 I'm a **Software Engineer** passionate about building things that live on the internet. 
 
 - 🔭 I’m currently working on enterprise software architecture.
-- 🌱 I’m currently learning building products only with a mobile phone.
-- 📫 How to reach me: [denizalpkapisiz@gmail.com/https://linkedin.com/in/denizalpkapisiz]
+- 🌱 I’m currently learning building products only with AI tools.
 
 ---
 
