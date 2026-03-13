@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm [Denizalp Kapısız]! 👋
 
-<!--
-**alpdenizz/alpdenizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **[Software Engineer]** passionate about building things that live on the internet. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on enterprise software architecture.
+- 🌱 I’m currently learning building products only with a mobile phone.
+- 📫 How to reach me: [denizalpkapisiz@gmail.com/https://linkedin.com/in/denizalpkapisiz]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Tech Stack
+![My Skills](https://skillicons.dev/icons?i=java,python,swift,git)
+
+### My Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alpdenizz&show_icons=true&theme=radical)
