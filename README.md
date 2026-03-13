@@ -1,6 +1,6 @@
-# Hi there, I'm [Denizalp Kapısız]! 👋
+# Hi there, I'm Denizalp Kapısız! 👋
 
-I'm a **[Software Engineer]** passionate about building things that live on the internet. 
+I'm a **Software Engineer** passionate about building things that live on the internet. 
 
 - 🔭 I’m currently working on enterprise software architecture.
 - 🌱 I’m currently learning building products only with a mobile phone.
